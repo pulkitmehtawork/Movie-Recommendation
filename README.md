@@ -2,7 +2,7 @@
 Learning recommendation systems by doing Movie Recommendations.
 
 ## Dataset 💾
-* Data set to be used - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset 
+* https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset 
 
 
 Inspired by Datatalk clubs and Alexey Grigorev's great intiative - project of the week . 
