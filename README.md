@@ -6,4 +6,4 @@ Learning recommendation systems by doing Movie Recommendations.
 
 
 Inspired by Datatalk clubs and Alexey Grigorev's great intiative - project of the week . 
-https://github.com/DataTalksClub/project-of-the-week/blob/main/2022-10-19-recommenders-1.md
+[DataTalksClub](https://github.com/DataTalksClub/project-of-the-week/blob/main/2022-10-19-recommenders-1.md)
